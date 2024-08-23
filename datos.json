@@ -1,0 +1,6 @@
+{
+    "url": "https://tu-dominio.com",
+    "db": "nombre_de_base_de_datos",
+    "username": "usuario@ejemplo.com",
+    "password": "contraseña"
+}
